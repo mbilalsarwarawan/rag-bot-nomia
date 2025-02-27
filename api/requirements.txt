@@ -8,3 +8,6 @@ python-multipart
 uvicorn
 jq
 python-dotenv
+psycopg2
+fastapi
+langchain_qdrant

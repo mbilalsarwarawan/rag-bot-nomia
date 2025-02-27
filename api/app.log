@@ -575,3 +575,247 @@ INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
 INFO:root:Session ID: string, AI Response: I do not have enough information to answer your query about "complying with Yess Disciplinary Policy and Code of Conduct". The provided context does not specify what is being referred to by "Yess", and it appears to be a corporate policy document rather than an agreement or contract. Can you please provide more context or clarify the purpose of this question?
+INFO:root:Session ID: string, User Query: what is the policy in case of fraud, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 404 Not Found"
+INFO:root:Session ID: string, User Query: what is the policy in case of fraud, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 404 Not Found"
+INFO:root:Session ID: string, User Query: what is the policy in case of fraud, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 404 Not Found"
+INFO:root:Session ID: string, User Query: what is the policy in case of fraud, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: Based on the provided context, if a claim or part thereof under this policy is found to be fraudulent, or if any fraudulent means or devices are used to obtain any benefit under this policy, all benefits afforded in terms of this policy in respect of such claim, and premiums paid in respect of such policy shall be forfeited, and this policy may be avoided or cancelled as from the date of the fraudulent conduct, or a claim rejected at the Insurer's discretion.
+INFO:root:Session ID: string, User Query: what is the policy in case Amendments to Cover or Premiums, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: Based on the provided context, I can determine that the user query "what is the policy in case Amendments to Cover or Premiums" refers to the clause related to amendments and changes to the premium or terms and conditions of the policy.
+
+According to the context, the insurer reserves the right to amend, add, or change the premium or terms and conditions of this Policy by giving 31 days written notice to the Policyholder. This means that if any variations or changes including any premium rate adjustment are made, they will be binding on both the Insurer and the Policyholder.
+
+The context also states that these changes can be applied at any time to the existing terms and conditions after written communication of the changes has been sent by the Insurer to the Policyholders' last known contact details provided by the Policyholder. This implies that the Policyholder is expected to stay informed about any changes made to the policy and its terms and conditions.
+
+In summary, the policy in case Amendments to Cover or Premiums refers to the following:
+
+1. The insurer can make changes to the premium or terms and conditions with 31 days' written notice.
+2. These changes will be binding on both parties (Insurer and Policyholder).
+3. Changes can be applied at any time after written communication is sent to the Policyholder's last known contact details.
+
+This policy ensures that the Insurer has flexibility to adapt the policy as needed, while also providing the Policyholder with reasonable notice and an opportunity to review and understand any changes made to the policy.
+INFO:root:Session ID: string, User Query: give me all the contact information email, phone and address of The Financial Advisory and Intermediary Services, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The Financial Advisory and Intermediary Services (FAIS) Ombud is a regulatory body that provides assistance in complaints related to financial advisory and intermediary services. Here are the relevant contact details:
+
+ Postal Address: P.O. Box 74571, Lynnwood Ridge, 0040
+ Physical Address: 125 Dallas Avenue Menlyn Central, Waterkloof Glen, Pretoria 0010
+ Telephone Number: (012) 7625000
+ Sharecall number: 0860 66 32 74
+ Fax number: (012) 3483447 or (012) 4709097
+ Email: info@faisombud.co.za
+ Website: www.faisombud.co.za
+INFO:root:Session ID: None, User Query: tell me abou the document, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: be3f7ae3-5af3-437d-bd1b-3222a7fd4ec3, AI Response: Do not have enough information.
+INFO:root:Session ID: None, User Query: tell me abou the document, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_96_workspace_721/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_96_workspace_721 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_96_workspace_721/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_96_workspace_721/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 537c64af-218f-477a-a51f-322435bf39ff, AI Response: Do not have enough information.
+INFO:root:Session ID: 537c64af-218f-477a-a51f-322435bf39ff, User Query: tell me about the policy in case of fraud, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 537c64af-218f-477a-a51f-322435bf39ff, AI Response: If a claim or part thereof under the policy is found to be fraudulent, all benefits afforded in terms of the policy in respect of such claim and premiums paid in respect of such policy shall be forfeited. The policy may also be avoided or cancelled as from the date of the fraudulent conduct, or a claim rejected at the Insurer's discretion.
+
+In other words, if the Insurer discovers that there was intentional misconduct or deception involved in filing a claim or making a false statement during the application process, they have the right to cancel the policy and reject the claim. This means that neither the insured nor anyone acting on their behalf will receive any benefits under the policy as a result of the fraudulent conduct.
+
+Furthermore, if a benefit is paid as a result of fraudulent action, the beneficiary/claimant will be required to repay or return the benefit received under the policy, and the Insurer may take legal action to recover the benefit and/or any costs associated with such legal action.
+
+This clause is included in the policy to protect both the Insurer and the public from individuals attempting to deceive them through fraudulent means. By including this provision, the policy ensures that those who attempt to defraud the system will not be able to reap benefits or avoid their responsibilities.
+INFO:root:Session ID: 537c64af-218f-477a-a51f-322435bf39ff, User Query: what in case of amendments or cover premiums, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 537c64af-218f-477a-a51f-322435bf39ff, AI Response: In the event of amendments or changes to the cover or premiums under this Policy, the Insurer reserves the right to amend, add, or change the premium or terms and conditions by giving 31 days written notice to the Policyholder. This means that if the Insurer wants to make any changes, they will provide the Policyholder with written communication at their last known contact details.
+
+These changes will be binding on both parties, meaning that the Policyholder will have no right to refuse or contest them. Additionally, any premium rate adjustments will also be applied to the existing terms and conditions of the Policy after the Insurer has provided the Policyholder with written communication of these changes.
+
+It is essential for the Policyholder to carefully review the revised terms and conditions to ensure they understand the implications of any amendments. However, if the Policyholder fails to respond or take action within the 31-day notice period, the amended terms and conditions will automatically come into effect.
+
+In summary, when it comes to amendments or changes to the cover or premiums under this Policy, the Insurer's right to amend is clear, and the Policyholder has limited recourse. It is crucial for the Policyholder to stay informed and respond promptly to any changes to avoid potential financial or contractual implications.
+INFO:root:Session ID: 537c64af-218f-477a-a51f-322435bf39ff, User Query: what is the policy for family meembers, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 537c64af-218f-477a-a51f-322435bf39ff, AI Response: The policy for family members, specifically the FamilyWealth Funeral Plan, provides funeral cover to the Policyholder and any nominated Life Partner, Child/Children or Extended Family Members, depending on the plan selected.
+
+According to the policy, the basic Family Policy includes cover for the Policyholder, their nominated Life Partner, and up to 5 nominated Children. Extended family members can be added at an additional premium and must be stated to be included on the Policy Schedule.
+
+The policy outlines the benefits payable on death for different individuals:
+
+* The Policyholder and Life Partner are covered until age 18, after which they are not covered.
+* Children are covered until age 20, with a decreasing benefit percentage as follows:
+	+ 14-20 years: 100%
+	+ 6-13 years: 50%
+	+ 0-5 years: 20%
+* Nominated Family Members (aged 18 and older) are covered at 100% of the benefit.
+* Extended Family Members, such as parents, grandparents, brothers, sisters, nieces, nephews, and grandchildren (between ages 18 and 69), can be added at an additional premium.
+
+It is also important to note that the amount payable on death cannot exceed the amount recorded in the Policy Schedule. Additionally, if a dependent's life is claimed under the policy, the benefit will not be greater than the amount paid to the Policyholder.
+
+The FamilyWealth Funeral Plan aims to provide financial assistance and support to families during difficult times, ensuring that they can plan for funeral expenses with confidence.
+INFO:root:Session ID: 537c64af-218f-477a-a51f-322435bf39ff, User Query: what is the refusal policy of the insurance, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 537c64af-218f-477a-a51f-322435bf39ff, AI Response: The refusal policy of an insurance typically outlines the circumstances under which an insurer can refuse to pay a claim or provide benefits. This policy varies depending on the type of insurance, but generally, it aims to protect the insurer from unfair claims and ensure that only legitimate and covered risks are reimbursed.
+
+In most insurance policies, the refusal policy is part of the terms and conditions, which are explicitly stated in the policy document. The policyholder should carefully read and understand these terms before purchasing the insurance.
+INFO:root:Session ID: None, User Query: what is the refusal policy of the insurance
+
+, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 6e5b81c5-ac52-4e34-ac53-8ab20662cb8a, AI Response: The refusal policy of an insurance refers to the guidelines or criteria used by an insurance company to determine whether or not to accept a claim or provide coverage for a particular loss or incident. This policy typically outlines the specific conditions and circumstances under which an insurance company will refuse to pay out a claim.
+
+In general, an insurance company's refusal policy may consider various factors such as:
+
+1. Exclusion clauses: These are specific exclusions listed in the insurance policy that may exclude coverage for certain types of losses or incidents.
+2. Policy terms and conditions: The policy itself may have provisions that explicitly state what is covered and what is not, which can affect the refusal policy.
+3. Pre-existing conditions: If a person has an existing medical condition that was present before purchasing the insurance, it may be considered a pre-existing condition and could lead to a refusal of coverage for certain claims related to that condition.
+4. Age and health limits: Some insurance policies have age or health limits that can affect coverage, especially for older individuals or those with specific health conditions.
+
+For example, if an individual purchases life insurance but is refused coverage due to a pre-existing heart condition, the insurance company may consider this exclusion clause when processing their claim.
+
+It's also important to note that some insurance policies may have a waiting period before coverage kicks in, which can affect whether or not a claim is accepted. Additionally, certain types of insurance policies, such as health or auto insurance, may have more stringent refusal policies due to the nature of the risk being insured.
+
+Ultimately, the specific terms and conditions of an insurance policy will determine the refusal policy, and it's essential for individuals to carefully review their policy before making a claim to understand what is covered and what is not.
+INFO:root:Session ID: 6e5b81c5-ac52-4e34-ac53-8ab20662cb8a, User Query: what is the refusal policy of the insurance
+
+, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 6e5b81c5-ac52-4e34-ac53-8ab20662cb8a, User Query: what is the refusal policy of the insurance
+
+, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 6e5b81c5-ac52-4e34-ac53-8ab20662cb8a, AI Response: Refusal of an insurance claim by an insurer typically occurs when the circumstances surrounding the event or situation that gave rise to the claim are deemed to be outside the scope of coverage or exceed the limits of liability set out in the insurance policy. The specific criteria for refusing a claim can vary depending on the terms and conditions of the insurance contract, but generally, insurers will only pay claims if they meet certain requirements.
+
+One common reason for refusal is if the event or situation that led to the claim was caused by a pre-existing condition or risk that was not disclosed at the time the policy was purchased. This can include things like pre-existing medical conditions, intentional acts, or actions that are specifically excluded from coverage in the policy.
+
+Another reason for refusal might be if the claimant fails to fulfill their obligations under the insurance contract. For example, if a driver is involved in an accident and has been found to be at fault due to reckless driving, the insurer may refuse to pay for damages caused by their negligence unless they can demonstrate that they have taken steps to rectify the situation.
+
+Additionally, insurers may also refuse claims if there is evidence of fraud or misrepresentation on the part of the claimant. This could include providing false information about the circumstances surrounding an accident, hiding relevant details from the insurer, or making a false statement under oath during an investigation.
+
+In cases where a claim is disputed by the insurer, it's essential for policyholders to review their insurance contract carefully and gather any supporting documentation or evidence that supports their claim. If necessary, they should also consider seeking advice from a qualified professional, such as an attorney specializing in insurance law, to help navigate the process.
+
+It's worth noting that each insurance company has its own unique policies and procedures for handling claims, so it's crucial for policyholders to familiarize themselves with the specific terms and conditions of their policy.
+INFO:root:Session ID: 6e5b81c5-ac52-4e34-ac53-8ab20662cb8a, User Query: what is the refusal policy of the insurance
+
+, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 6e5b81c5-ac52-4e34-ac53-8ab20662cb8a, AI Response: Refusal policy of an insurance refers to the guidelines and criteria that an insurer follows to determine whether to accept or reject a claim. The refusal policy outlines the specific conditions, circumstances, and requirements that must be met in order for a claim to be approved.
+
+Typically, an insurance company's refusal policy will specify the types of claims that are eligible for coverage, as well as any exclusions or limitations that may apply. For example, certain types of accidents or injuries may not be covered under a policy, such as those related to war, terrorism, or intentional acts.
+
+The refusal policy may also outline specific requirements for filing a claim, such as providing documentation, completing a claims form, and paying premiums on time. Failure to meet these requirements can result in the claim being denied.
+
+In addition, an insurance company's refusal policy may provide guidance on how to dispute a denied claim, including what information must be provided and what evidence is required to support a claim.
+
+It is also worth noting that insurance companies often have different referral policies for certain types of claims, such as those related to medical expenses. In these cases, the insurer may refer the claimant to a specific medical professional or facility for treatment.
+
+Overall, an insurance company's refusal policy serves as a critical framework for determining whether to accept or reject a claim, and helps ensure that coverage is only provided to individuals who meet the necessary criteria.

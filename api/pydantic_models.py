@@ -4,7 +4,7 @@ from datetime import datetime
 from typing import List, Optional
 
 class ModelName(str, Enum):
-    DEEPSEEK_R1 = "deepseek-r1:1.5b"
+    DEEPSEEK_R1 = "llama3.2"
 
 class QueryInput(BaseModel):
     question: str

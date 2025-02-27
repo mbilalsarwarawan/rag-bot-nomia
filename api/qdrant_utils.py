@@ -16,13 +16,11 @@ qdrant_url = os.getenv('QDRANT_URL')
 qdrant_api_key=os.getenv('QDRANT_API_KEY')
 
 qdrant_client = QdrantClient(
-    url=qdrant_url,
-    api_key=qdrant_api_key,
-port=6333, grpc_port=6333
+url="http://localhost:6333"
 )
 
 text_splitter = RecursiveJsonSplitter(max_chunk_size =2500, min_chunk_size=1500)
-embedding_function = OllamaEmbeddings(model="deepseek-r1:1.5b")
+embedding_function = OllamaEmbeddings(model="nomic-embed-text")
 
 def get_org_workspace_vectorstore(organization_id: str, workspace_id: str):
     collection_name = f"org_{organization_id}_workspace_{workspace_id}"
