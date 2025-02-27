@@ -1,0 +1,577 @@
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about sarwar awan, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 3 is greater than number of elements in index 1, updating n_results = 1
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+WARNING:chromadb.segment.impl.vector.local_persistent_hnsw:Number of requested results 3 is greater than number of elements in index 1, updating n_results = 1
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: Sarwar Awan is a software engineer working at CherryByte, known for his professional experience and contributions to the development of software solutions.
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT http://localhost:6333/collections/org_9_workspace_724/points?wait=true "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The context provides information on signatures related to Warranties from companies like Nomia Africa (Pty) LTD and PartyFull!TR. Signatures include details such as names, dates, designations, and locations. For example, a signature might look like "CUSTOMER NAME AND REGISTRATION NO: !TC@Party2Full / @Party2Reg!TRADDRESS: !TC@Party2Addr". These signatures help in confirming that the seller is adequately warrants their product or service.
+
+A **signatures policy** refers to the procedures and guidelines used by a company to obtain signatures from various parties (such as customers, other organizations, etc.) for Warranties. In this context, both **narrow signatures** and **wide signatures** are provided to clearly define who warrants what, when, where, and how.
+
+For example, if **Narrow Signatures** are used for multicolumn formats (like when documents have multiple columns), they might include specific instructions or identifiers that are mandatory or optional. Wide signatures could be used for single-column formats, offering more flexible terms.
+
+This context suggests that the signatures policy is structured to ensure that all necessary information and requirements are clearly communicated, making it easier for parties to understand their obligations and how they will be verified.
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The context does not contain sufficient information to generate an accurate answer.
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The signatures policy is a regulatory framework designed to ensure that businesses meet specific criteria before proceeding with certain actions. It outlines compliance requirements, promoting efficiency by adhering to agreed standards and regulations. These policies are updated regularly in response to industry changes. Examples include GDPR for the EU and HIPAA's U.S.-China Privacy21 standards. Such policies help regulate actions like contracts or licenses, ensuring businesses operate within established guidelines.
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The "signatures policy" is outlined in the context provided under file_id: 3985, which details both narrow and wide signatures for different purposes.
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the signatures policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: A signatures policy is a set of rules or procedures designed to enforce specific behaviors and ensure employees behave in a certain way within an organization.
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/scroll "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/scroll "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://42b3c095-4f7d-4221-95bb-0126c15bdfe4.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_string_workspace_string/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_string_workspace_string "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_string_workspace_string "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_string_workspace_string/points?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points/delete?wait=true "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: PUT https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_725/points?wait=true "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: tell me about the Required Disclosure policy, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The Required Disclosure Policy for DuePoint in South Africa is structured to guide financial service providers on handling customer inquiries and ensuring compliance with legal standards. Here's a concise summary of the key aspects:
+
+1. **Customer Service Expectations**: Customers are encouraged to provide accurate information promptly, as detailed in "Changes in insurances." The policy includes specific guidelines for prompt communication.
+
+2. **Regulatory Compliance**: The policy adheres to financial regulations like FICA, requiring DuePoint to maintain a list of representatives and residents and inform the Registrar of any changes in their details.
+
+3. **Statistical Analysis and Research**: Customers are expected to receive statistical insights regularly, which may involve specific content guidelines on how and when these analyses should be conducted.
+
+4. **Financial Management**: The policy outlines methods for conducting financial analysis, including minimum investment requirements from your Plan Schedule. It also includes adjustments to fee structures and product offerings upon changes, such as "Changes in insurances."
+
+5. **Data Communication**: DuePoint communicates customer insights through various means, ensuring data is presented effectively to enhance decision-making.
+
+6. **Statistical Content**: The policy provides guidance on the types of statistical content due Point should maintain securely, covering all relevant topics and sections like "Changes in insurances."
+
+7. **Compliance with Legal Requirements**: The policy ensures compliance with legal standards by requiring detailed reports on financial intelligence centers and maintaining secure data.
+
+8. **Customer Service Standards**: Customers must report issues promptly under the section titled "What is DuePoint not responsible for," ensuring customer satisfaction and trustworthiness.
+
+9. **Legal and Regulatory Compliance**: The policy includes specific sections, such as those about legal status and representative requirements, to ensure proper handling of claims and insurances.
+
+10. **Transparency and Communication**: The policy emphasizes transparency in communication methods, including prompt reporting of changes in fees and product offerings.
+
+In conclusion, the Required Disclosure Policy for DuePoint ensures compliance with financial regulations, enhances customer satisfaction, and provides robust tools for managing insurance products while protecting customer interests.
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://6e05dc9f-d0ca-49eb-ae83-313945f3948c.europe-west3-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 404 Not Found"
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: To submit a complaint, you should follow the guidelines provided in the "Customer Responsibility" section of the binder holder file. Specifically:
+
+1. **Submitting the Complaint**: You may have an issue with your policy or benefits related to premiums, deferred benefit periods, or other terms.
+
+2. **Details for Submission**:
+   - State when you received your monthly premium.
+   - Mention if you received more than one month's worth of premiums in a row without receiving them on time.
+   - Indicate the reason for the complaints (e.g., incomplete payment, late renewal).
+
+3. **Complaint Processing**: Your complaint will be reviewed and addressed based on the information provided.
+
+4. **Resolution**: You can expect your complaint to be resolved promptly by your insurance company or the relevant intermediary.
+
+This process ensures that issues are handled efficiently and in accordance with policy terms.
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The provided context does not sufficiently match the query to generate an accurate answer.
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: To submit a complaint, please follow the steps outlined in the linked information section of our system.
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The provided context does not sufficiently match the user's query to generate an accurate answer.
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: how can i submit a complaint, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: To submit a complaint, you can refer to the relevant sections in the context. Visit the provided links, such as [www.fsca.co.za], and review the information on handling personal data (J.4) and ensuring compliance with legal standards (J.12.9). These resources will guide you through submitting claims effectively.
+INFO:root:Session ID: string, User Query: what are the customer responsibilities, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The customer responsibilities include handling transactions, underwriting risks, assessing and processing claims, ensuring fairness with third-party contracted entities, and providing transparency in handling customer complaints.
+INFO:root:Session ID: string, User Query: what are the customer responsibilities, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The customer responsibilities outlined in the provided context include:
+
+1. **Recipients of Personal Information**: Personal information is collected by us for policy purposes only.
+
+2. **Usage Duration**: Personal information used within 30 days after the Policy Commencement Date or within a span of 15 days after being received.
+
+3. **Licensing and Restrictions**: There's no mention of specific restrictions on how we can process data, but it's implied that we handle necessary data only when required.
+
+These points summarize the customer responsibilities as described in the context.
+INFO:root:Session ID: None, User Query: what are the RIGHTS AND OBLIGATIONS OF CONSULTANT, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: a5abbd89-0c6e-46d0-af02-f69d8f02d7a9, AI Response: The consultant is liable for providing services under the agreement as outlined in "RIGHTS AND OBLIGATIONS OF CONSULTANT." They are expected to adhere to the contract's terms, ensuring all obligations are met and handling costs responsibly.
+INFO:root:Session ID: None, User Query: what are the RIGHTS AND OBLIGATIONS OF CONSULTANT, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://2f1176fd-c1c3-455b-aca6-c8343c1424d0.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 0ecc3aa2-c1cb-4445-a075-5d915f223284, AI Response: The rights and obligations of the Consultant include:
+
+1. **Negligence Responsibility**: The Consultant is bound by clauses that ensure they do not omit any responsibilities aimed at negatively affecting Yes or their funders.
+
+2. **Fees and Services**: There are annual fees for rendering services, with payments due monthly as per Annexure A and Yes's agreement elsewhere.
+
+3. **Termination Obligation**: Termination clauses require written and signed agreements by both parties to enforce performance upon termination.
+
+4. **Contract Period Details**: Files 52, 53, and 54 outline the contract period and payment structures for termination.
+
+These details ensure mutual responsibilities and clear financial obligations between the Consultant and Nomia/Yes.
+INFO:root:Session ID: string, User Query: tell me about the confidential  Information agreement, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The provided context does not sufficiently match the query to generate an accurate answer.
+INFO:root:Session ID: string, User Query: tell me about the confidential  Information agreement, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The context provides repeated sentences discussing various contracts related to property and development proposals, including general arrangements between the disclosing party and others. However, there is no specific mention of confidential information agreements or any details about confidentiality in this context. Therefore, the answer cannot be generated accurately without additional information. I would ask for clarification on their needs regarding confidentiality in information agreements.
+
+The provided context does not sufficiently match the query to generate an accurate answer.
+INFO:root:Session ID: string, User Query: give the address, contact and email of mentioned in the agreements, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The provided context does not sufficiently match the query to generate an accurate answer.
+INFO:root:Session ID: string, User Query: give the address, contact and email of mentioned in the agreements, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://80e56311-be34-49af-bc16-c90eb22d4bec.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The provided context does not sufficiently match the query to generate an accurate answer. The required information includes the physical address (which is 1 John Road, Johnsonville), contact name ("Due Point Network Consultants (Pty) Ltd"), phone number ((010) 020 4500), and email address which is not provided in the context.
+INFO:root:Session ID: None, User Query: What is the policy of term and the termination, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_96_workspace_722/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_96_workspace_722 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_96_workspace_722/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_96_workspace_722/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: None, User Query: tell me about eh term and termination policy how long the agreement is, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: e2113fd4-361a-45a3-a330-b89e1880d383, AI Response: Do not have enough information.
+INFO:root:Session ID: ff32ad51-6d9f-4b46-a174-045ee15d231b, AI Response: The "Term and Termination Policy" pertains to the contracts between the Disclosing Party and others. It outlines the duration of agreements, termination clauses, and procedures for resolving disputes if breaches occur. Key elements include revocation periods, formal terms, procedures, dispute resolution methods, and formalities related to business relations. This policy ensures clear guidelines on when an agreement might end and how disputes can be addressed.
+INFO:root:Session ID: string, User Query: under which condition the confidential information is disclosed, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: Do not have enough information.
+INFO:root:Session ID: string, User Query: under which condition the confidential information is disclosed, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: I do not have enough information to answer your query. The context provided does not mention whether you are withdrawing from Prime CIS or if there is any specific reason for choosing to end your investment in the Investment Fund. Further details would be required to provide a meaningful response.
+INFO:root:Session ID: string, User Query: How can i cancel the plan, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: I'm sorry, but I do not have enough information to answer your question about cancelling the Prime CIS TFIA plan. However, based on the context provided, it appears that you may be looking for guidance on how to withdraw or cancel the investment, as indicated by your query "you choose to end it."
+INFO:root:Session ID: string, User Query: Cancel the Plan You have the right to cancel the Plan with immediate, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: Do not have enough information. 
+
+The provided context does not contain sufficient or relevant information to answer the user query about "the entity agrees in writing to assume the obligations described in this agreement." The context appears to be related to a tax-free savings account and insurance policies, but it does not provide any details about the obligations that an entity is agreeing to.
+INFO:root:Session ID: string, User Query: Cancel the Plan You have the right to cancel the Plan with immediate with DUE POINT, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: I'm not having enough information to answer your query. "To comply with Yess Disciplinary Policy and Code of Conduct, or similar policy document, in the execution of the Services" is a provision within the agreement between Yes and the Consultant, but it does not provide sufficient context for me to generate an answer related to the Consultancy Services.
+
+Do not have enough information.
+INFO:root:Session ID: string, User Query: Cancel the Plan You have the right to cancel the Plan with immediate with DUE POINT, Model: deepseek-r1:1.5b
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: I do not have enough information to answer your query about "complying with Yess Disciplinary Policy and Code of Conduct". The provided context does not specify what is being referred to by "Yess", and it appears to be a corporate policy document rather than an agreement or contract. Can you please provide more context or clarify the purpose of this question?

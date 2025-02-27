@@ -1,0 +1,10 @@
+langchain
+langchain-ollama
+langchain-core
+langchain_community
+pypdf
+qdrant_client
+python-multipart
+uvicorn
+jq
+python-dotenv
