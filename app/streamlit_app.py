@@ -21,7 +21,7 @@ if "file_id" not in st.session_state:
     st.session_state.file_id = None
 
 if "model" not in st.session_state:
-    st.session_state.model = "deepseek-r1:1.5b"
+    st.session_state.model = "llama3.2"
 
 
 

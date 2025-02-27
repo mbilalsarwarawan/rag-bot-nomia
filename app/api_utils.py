@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 
-def get_api_response(question, session_id, model, organization_id, workspace_id):
+def get_api_response(question, session_id, model, organization_id, workspace_id, file_id=None):
     headers = {
         'accept': 'application/json',
         'Content-Type': 'application/json'
@@ -14,9 +14,12 @@ def get_api_response(question, session_id, model, organization_id, workspace_id)
     }
     if session_id:
         data["session_id"] = session_id
+    if file_id:
+        data["file_id"]=file_id
+        print(file_id)
 
     try:
-        response = requests.post("http://localhost:8081/chat", headers=headers, json=data)
+        response = requests.post("http://localhost:8000/chat", headers=headers, json=data)
         if response.status_code == 200:
             return response.json()
         else:
@@ -30,7 +33,7 @@ def upload_document(organization_id,workspace_id, file_id, file):
     print("Uploading file...")
     try:
         files = {"file": (file.name, file, file.type)}
-        response = requests.post("http://localhost:8081/upload-doc", files=files, data={"organization_id":organization_id, "workspace_id": workspace_id, "file_id":file_id})
+        response = requests.post("http://localhost:8000/upload-doc", files=files, data={"organization_id":organization_id, "workspace_id": workspace_id, "file_id":file_id})
         if response.status_code == 200:
             return response.json()
         else:
@@ -42,7 +45,7 @@ def upload_document(organization_id,workspace_id, file_id, file):
 
 def list_documents(organization_id,workspace_id):
     try:
-        response = requests.get(f"http://localhost:8081/list-docs/organization/{organization_id}/workspace/{workspace_id}")
+        response = requests.get(f"http://localhost:8000/list-docs/organization/{organization_id}/workspace/{workspace_id}")
         if response.status_code == 200:
             return response.json()
         else:
@@ -60,7 +63,7 @@ def delete_document(organization_id,workspace_id, file_id):
     data = {"organization_id":organization_id, "workspace_id": workspace_id, "file_id":file_id}
 
     try:
-        response = requests.post("http://localhost:8081/delete-doc", headers=headers, json=data)
+        response = requests.post("http://localhost:8000/delete-doc", headers=headers, json=data)
         if response.status_code == 200:
             return response.json()
         else:
@@ -72,14 +75,14 @@ def delete_document(organization_id,workspace_id, file_id):
 
 def fetch_organizations():
     """ Fetch all organizations from API """
-    response = requests.get("http://localhost:8081/organizations/")
+    response = requests.get("http://localhost:8000/organizations/")
     if response.status_code == 200:
         return response.json()
     return []
 
 def fetch_workspaces(organization_id):
     """ Fetch all workspaces from API based on selected organization """
-    response = requests.get(f"http://localhost:8081/workspaces/{organization_id}")
+    response = requests.get(f"http://localhost:8000/workspaces/{organization_id}")
     if response.status_code == 200:
         return response.json()
     return []

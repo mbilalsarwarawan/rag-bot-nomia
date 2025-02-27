@@ -13,7 +13,13 @@ def display_chat_interface():
             st.markdown(prompt)
 
         with st.spinner("Generating response..."):
-            response = get_api_response(prompt, st.session_state.session_id, st.session_state.model, st.session_state.organization_id, st.session_state.workspace_id)
+            selected_file_id=st.session_state.get("selected_document_id", None)
+            if selected_file_id:
+                response = get_api_response(prompt, st.session_state.session_id, st.session_state.model,
+                                            st.session_state.organization_id, st.session_state.workspace_id, selected_file_id)
+            else:
+                response = get_api_response(prompt, st.session_state.session_id, st.session_state.model,
+                                            st.session_state.organization_id, st.session_state.workspace_id)
 
             if response:
                 st.session_state.session_id = response.get('session_id')

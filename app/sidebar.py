@@ -5,7 +5,7 @@ from api_utils import upload_document, list_documents, delete_document, fetch_or
 
 def display_sidebar():
     # Sidebar: Model Selection
-    model_options = ["deepseek-r1:1.5b"]
+    model_options = ["llama3.2"]
     st.sidebar.selectbox("Select Model", options=model_options, key="model")
 
     # Fetch organizations dynamically
@@ -55,6 +55,7 @@ def display_sidebar():
             st.session_state["documents"] = list_documents(
                 st.session_state["organization_id"], st.session_state["workspace_id"]
             )
+            st.session_state["selected_document_id"]= None
 
     # Initialize document list if not present
     if "documents" not in st.session_state:
@@ -67,25 +68,12 @@ def display_sidebar():
         for doc in documents:
             st.sidebar.text(f"{doc['filename']} (ID: {doc['file_id']}, Uploaded: {doc['upload_timestamp']})")
 
-        # Delete Document
+
         selected_file_id = st.sidebar.selectbox(
-            "Select a document to delete",
-            options=[doc['file_id'] for doc in documents],
-            format_func=lambda x: next(doc['filename'] for doc in documents if doc['file_id'] == x),
+            "Select a particular document to chat.",
+            options=["None"]+[doc['file_id'] for doc in documents],
+            format_func=lambda x: "None" if x=="None" else next(doc['filename'] for doc in documents if doc['file_id'] == x),
             key="selected_file_id"  # Unique key added
         )
 
-        if st.sidebar.button("Delete Selected Document"):
-            with st.spinner("Deleting..."):
-                delete_response = delete_document(
-                    st.session_state["organization_id"],
-                    st.session_state["workspace_id"],
-                    selected_file_id
-                )
-                if delete_response:
-                    st.sidebar.success(f"Document with ID {selected_file_id} deleted successfully.")
-                    st.session_state["documents"] = list_documents(
-                        st.session_state["organization_id"], st.session_state["workspace_id"]
-                    )  # Refresh list after deletion
-                else:
-                    st.sidebar.error(f"Failed to delete document with ID {selected_file_id}.")
+        st.session_state["selected_document_id"]=None if selected_file_id =="None" else selected_file_id
