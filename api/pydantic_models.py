@@ -4,15 +4,15 @@ from datetime import datetime
 from typing import List, Optional
 
 class ModelName(str, Enum):
-    DEEPSEEK_R1 = "llama3.2"
+    Llama3 = "llama3.2"
 
 class QueryInput(BaseModel):
     question: str
     session_id: str = Field(default=None)
-    model: ModelName = Field(default=ModelName.DEEPSEEK_R1)
-    organization_id: str
-    workspace_id: str
-    file_id: Optional[str] = Field(default=None)
+    model: ModelName = Field(default=ModelName.Llama3)
+    organization_id: int
+    workspace_id: int
+    file_id: Optional[int] = Field(default=None)
 
 class QueryResponse(BaseModel):
     answer: str
@@ -20,21 +20,21 @@ class QueryResponse(BaseModel):
     model: ModelName
 
 class DocumentInfo(BaseModel):
-    file_id: str
+    file_id: int
     filename: str
-    organization_id: str
-    workspace_id: str
+    organization_id: int
+    workspace_id: int
     upload_timestamp: datetime
 
 class DeleteFileRequest(BaseModel):
-    organization_id: str
-    workspace_id: str
-    file_id: str
+    organization_id: int
+    workspace_id: int
+    file_id: int
 
 
 class ListDoc(BaseModel):
-    organization_id: str
-    workspace_id: str
+    organization_id: int
+    workspace_id: int
 
 
 class FileItem(BaseModel):
@@ -42,14 +42,14 @@ class FileItem(BaseModel):
     content: Optional[str] = None  # Content can be null
 
 class FileUpload(BaseModel):
-    file_id: str
+    file_id: int
     filename: str
-    organization_id: str
-    workspace_id: str
+    organization_id: int
+    workspace_id: int
     file: List[FileItem]
 
 class FileRecord(BaseModel):
-    file_id: str
+    file_id: int
     filename: str
-    organization_id: str
-    workspace_id: str
+    organization_id: int
+    workspace_id: int

@@ -3,7 +3,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
-from qdrant_utils import get_org_workspace_vectorstore
+from qdrant_utils import get_vectorstore
 from langchain_core.vectorstores import VectorStoreRetriever
 from typing import Any, Dict, List
 from pydantic import Field
@@ -53,13 +53,13 @@ Proceed with the response.
     ("human", "{input}")
 ])
 
-def get_rag_chain(query, organization_id: str, workspace_id: str, model: str = "llama3.2", k: int = 3, file_id: str | None = None):
+def get_rag_chain(query, organization_id: int, workspace_id: int, model: str = "llama3.2", k: int = 3, file_id: int | None = None):
     if not (organization_id and workspace_id):
         raise ValueError("Both organization_id and workspace_id are required.")
 
     llm = OllamaLLM(model="llama3.2")
 
-    workspace_vectorstore = get_org_workspace_vectorstore(organization_id, workspace_id)
+    workspace_vectorstore = get_vectorstore(organization_id, workspace_id)
 
     search_kwargs = {"k": k}
     retriever = workspace_vectorstore.as_retriever(search_kwargs=search_kwargs)
@@ -70,7 +70,7 @@ def get_rag_chain(query, organization_id: str, workspace_id: str, model: str = "
         retriever = FilteredVectorStoreRetrieverWithFilter(
             vectorstore=workspace_vectorstore,
             search_kwargs=search_kwargs,
-            metadata_filter={"metadata.template_id": int(file_id)},
+            metadata_filter={"metadata.template_id": file_id},
             search_type=retriever.search_type  # carry over any search configuration
         )
         print(retriever.invoke(query))

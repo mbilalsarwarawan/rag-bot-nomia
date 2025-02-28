@@ -19,24 +19,24 @@ def create_tables():
 
     # Create organizations table
     conn.execute('''CREATE TABLE IF NOT EXISTS organization (
-                        id TEXT PRIMARY KEY,
+                        id INTEGER PRIMARY KEY,
                         created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
                     )''')
 
     # Create workspaces table
     conn.execute('''CREATE TABLE IF NOT EXISTS workspace (
-                        id TEXT PRIMARY KEY,
-                        organization_id TEXT NOT NULL,
+                        id INTEGER PRIMARY KEY,
+                        organization_id INTEGER NOT NULL,
                         created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                         FOREIGN KEY (organization_id) REFERENCES organization(id) ON DELETE CASCADE
                     )''')
 
     # Create document store
     conn.execute('''CREATE TABLE IF NOT EXISTS document_store (
-                        file_id TEXT PRIMARY KEY,
+                        file_id INTEGER PRIMARY KEY,
                         filename TEXT,
-                        organization_id TEXT NOT NULL,
-                        workspace_id TEXT NOT NULL,
+                        organization_id INTEGER NOT NULL,
+                        workspace_id INTEGER NOT NULL,
                         upload_timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                         FOREIGN KEY (organization_id) REFERENCES organization(id) ON DELETE CASCADE,
                         FOREIGN KEY (workspace_id) REFERENCES workspace(id) ON DELETE CASCADE
@@ -103,7 +103,7 @@ def get_all_documents(organization_id, workspace_id):
 
 
 # --- Helper Functions ---
-def ensure_organization_exists(organization_id: str):
+def ensure_organization_exists(organization_id: int):
     """ Ensure organization exists; insert if not exists """
     conn = get_db_connection()
     cursor = conn.cursor()
@@ -116,7 +116,7 @@ def ensure_organization_exists(organization_id: str):
     conn.close()
 
 
-def ensure_workspace_exists(workspace_id: str, organization_id: str):
+def ensure_workspace_exists(workspace_id: int, organization_id: int):
     """ Ensure workspace exists; insert if not exists """
     conn = get_db_connection()
     cursor = conn.cursor()
@@ -130,7 +130,7 @@ def ensure_workspace_exists(workspace_id: str, organization_id: str):
 
 
 # --- Insert Document with Auto-Ensure ---
-def insert_document(file_id: str, filename: str, organization_id: str, workspace_id: str):
+def insert_document(file_id: int, filename: str, organization_id: int, workspace_id: int):
     """ Ensures organization and workspace exist, then inserts a document """
     # Ensure organization exists
     ensure_organization_exists(organization_id)

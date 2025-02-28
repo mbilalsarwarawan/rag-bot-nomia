@@ -1,24 +1,17 @@
-import json
-import time
 from fastapi import FastAPI
-from pydantic_models import QueryInput, QueryResponse, DocumentInfo, DeleteFileRequest, ListDoc, FileUpload, ListDoc, \
-    FileRecord
+from pydantic_models import QueryInput, QueryResponse, DocumentInfo, DeleteFileRequest,  FileUpload, FileRecord
 from langchain_utils import get_rag_chain
 from db_utils import get_all_documents, insert_document, \
     delete_document_record, update_document_record, get_all_organizations, get_all_workspaces
 from qdrant_utils import index_document_to_chroma, delete_doc_from_chroma, update_document_splits
 import uuid
 import logging
-from fastapi import UploadFile, File, HTTPException
+from fastapi import HTTPException
 import os
-import shutil
 logging.basicConfig(filename='app.log', level=logging.INFO)
 app = FastAPI()
-import re
 
-def remove_think_tags(text):
-    cleaned_text = re.sub(r'<think>.*?</think>', '', text, flags=re.DOTALL)
-    return cleaned_text.strip()
+
 
 @app.post("/chat", response_model=QueryResponse)
 def chat(query_input: QueryInput):
@@ -47,9 +40,8 @@ def chat(query_input: QueryInput):
 
     answer = rag_chain.invoke({
         "input": query_input.question,
-    })['answer']
-
-    answer = remove_think_tags(answer)
+    })
+    answer=answer['answer']
 
     logging.info(f"Session ID: {session_id}, AI Response: {answer}")
     return QueryResponse(answer=answer, session_id=session_id, model=query_input.model)
@@ -57,7 +49,7 @@ def chat(query_input: QueryInput):
 
 @app.post("/upload-doc")
 def upload_and_index_document(file: FileUpload):
-    temp_file_path = f"temp_{file.organization_id}_{file.workspace_id}.json"
+    temp_file_path = f"temp_{file.organization_id}_{file.workspace_id}.txt"
 
     try:
         # Ensure required attributes exist
@@ -65,10 +57,9 @@ def upload_and_index_document(file: FileUpload):
             raise HTTPException(status_code=400, detail="Missing required JSON fields.")
 
 
-
-        with open(temp_file_path, "w", encoding="utf-8") as json_file:
-            json.dump(file.model_dump(), json_file, ensure_ascii=False, indent=4)
-        # Insert the document record into the database
+        with open(temp_file_path, "w", encoding="utf-8") as f:
+            content = file.file or ""
+            f.write(content)        # Insert the document record into the database
         file_id = insert_document(
             file_id=file.file_id,
             filename=temp_file_path,  # Store the temp file name as filename
@@ -77,7 +68,7 @@ def upload_and_index_document(file: FileUpload):
         )
 
         # Index the document in ChromaDB (modify this function to read JSON if needed)
-        success = index_document_to_chroma(temp_file_path, file.organization_id, file.workspace_id, file.file_id)
+        success = index_document_to_chroma(temp_file_path, file.organization_id, file.workspace_id, file.file_id, file.filename)
 
         if not success:
             delete_document_record(file_id, file.organization_id, file.workspace_id)
@@ -125,13 +116,13 @@ def update_document(file : FileUpload):
     temp_file_path = f"temp_{file.filename}.json"
 
     try:
-        # Save the uploaded file to a temporary file
-        with open(temp_file_path, "w", encoding="utf-8") as json_file:
-            json.dump(file.model_dump(), json_file, ensure_ascii=False, indent=4)
+        with open(temp_file_path, "w", encoding="utf-8") as f:
+            content = file.file or ""
+            f.write(content)
 
         update_document_record(file.file_id, file.organization_id,file.workspace_id,file.filename)
 
-        success = update_document_splits(temp_file_path, file.organization_id, file.workspace_id, file.file_id)
+        success = update_document_splits(temp_file_path, file.organization_id, file.workspace_id, file.file_id, file.filename)
 
         if success:
             return {
