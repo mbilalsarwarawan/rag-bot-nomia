@@ -853,3 +853,95 @@ If there are surviving beneficiaries and the policy owner fails to reallocate th
 It is also important to note that the terms and conditions of the policy, as outlined in the policy wording and schedule, form an integral part of the agreement between the policy owner and the insurance provider. These terms and conditions include general and special arrangements, provisions, requirements, legal rules, specifications, and standards that apply to all sections and cover afforded under the insurance agreement.
 
 In summary, to update or change beneficiaries for a life insurance policy, it is necessary to notify the insurance provider in writing before a claim arises, and any changes will be effective immediately. The beneficiaries will share the insurance proceeds equally unless specified otherwise by the policy owner.
+INFO:root:Session ID: string, User Query:  tell me about history and evolution , Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The history and evolution of technology is a vast and complex topic that spans thousands of years, from the earliest civilizations to the present day. The evolution of technology has been shaped by numerous breakthroughs in engineering, science, and computing, which have transformed industries, societies, and individual lives.
+
+The earliest technological advancements date back to ancient civilizations, where simple tools such as stone tools and pottery were used for survival and basic needs. These early technologies laid the foundation for future innovations and advancements. The invention of the wheel, for example, is considered one of the most significant technological breakthroughs in human history, revolutionizing transportation and trade.
+
+As societies developed and became more complex, so too did their technological capabilities. The ancient Greeks and Romans, for instance, made significant advances in engineering, architecture, and mathematics, which had a lasting impact on Western civilization. The Middle Ages saw the development of new technologies such as the waterwheel and windmill, which further increased productivity and efficiency.
+
+The Industrial Revolution marked a significant turning point in the history of technology, with major breakthroughs in steam power, textile manufacturing, and metalworking. This period saw the emergence of industrial capitalism and the growth of cities, which in turn drove technological innovation and progress.
+
+The 20th century witnessed an explosion of technological advancements, including the development of electricity, computers, and telecommunications. The invention of the printing press enabled mass production and dissemination of knowledge, while the internet and mobile devices have revolutionized global communication and commerce.
+
+Today, technology continues to evolve at an unprecedented rate, with emerging trends such as artificial intelligence, nanotechnology, and space exploration holding significant promise for future innovation and progress. As we look to the future, it is clear that technology will continue to play a vital role in shaping human society, driving economic growth, and improving lives around the world.
+
+The key technological innovations that have driven human progress include the printing press, steam engine, electricity, internet, and quantum computing. These breakthroughs have transformed industries, including healthcare, finance, education, and communication, enabling global connectivity but also raising concerns about privacy, security, and ethics.
+
+In conclusion, the history and evolution of technology is a rich and complex narrative that spans thousands of years, from ancient civilizations to the present day. Understanding this history is essential for appreciating the significant impact of technological advancements on human society and preparing for the exciting prospects of the digital era.
+INFO:root:Session ID: string, User Query:  tell me about history and evolution , Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The history and evolution of technology is a long and complex one that spans thousands of years. The earliest technological advancements date back to ancient civilizations where simple tools were used for survival. These early innovations, such as the wheel, allowed humans to adapt to their environments more effectively and paved the way for further breakthroughs in engineering, science, and computing.
+
+One notable innovation from this period is the invention of the printing press by Johannes Gutenberg in the 15th century. This revolutionized the way information was disseminated, making it possible to mass-produce books and other written materials. The subsequent development of the steam engine by James Watt in the 18th century further transformed industry and transportation.
+
+The 20th century saw the rise of electricity, which became a fundamental component of modern technology. The invention of the light bulb, telephone, and computer all owe their existence to the work of pioneers like Thomas Edison, Alexander Graham Bell, and Charles Babbage. The advent of the internet in the late 20th century has enabled global connectivity, transformed the way we communicate and access information, and has had a profound impact on modern society.
+
+Today, technology continues to advance at an unprecedented rate. Breakthroughs in artificial intelligence (AI), nanotechnology, and space exploration are just a few examples of the many exciting developments on the horizon. As these trends emerge, it is essential for businesses and individuals to understand their implications and prepare for the digital era ahead.
+
+The impact of technology on society has been profound, transforming industries such as healthcare, finance, education, and communication. While technology has enabled global connectivity, it has also raised concerns about privacy, security, and ethics. As we move forward, it is crucial that we address these challenges and work towards creating a more equitable and sustainable technological landscape.
+
+Overall, the history and evolution of technology are testaments to human ingenuity and innovation. From simple tools to complex digital systems, technology has played an increasingly significant role in shaping modern society. By understanding the past, present, and future of technology, we can better navigate its implications and work towards a brighter, more technologically advanced future.
+INFO:root:Session ID: string, User Query:  tell me about history and evolution , Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The history and evolution of technology is a vast and complex topic that spans thousands of years, from the earliest civilizations to the present day. The evolution of technology has been shaped by numerous breakthroughs in engineering, science, and computing, which have transformed industries, societies, and individual lives.
+
+The earliest technological advancements date back to ancient civilizations, where simple tools such as stone tools and pottery were used for survival and basic needs. These early technologies laid the foundation for future innovations and advancements. The invention of the wheel, for example, is considered one of the most significant technological breakthroughs in human history, revolutionizing transportation and trade.
+
+As societies developed and became more complex, so too did their technological capabilities. The ancient Greeks and Romans, for instance, made significant advances in engineering, architecture, and mathematics, which had a lasting impact on Western civilization. The Middle Ages saw the development of new technologies such as the waterwheel and windmill, which further increased productivity and efficiency.
+
+The Industrial Revolution marked a significant turning point in the history of technology, with major breakthroughs in steam power, textile manufacturing, and metalworking. This period saw the emergence of industrial capitalism and the growth of cities, which in turn drove technological innovation and progress.
+
+The 20th century witnessed an explosion of technological advancements, including the development of electricity, computers, and telecommunications. The invention of the printing press enabled mass production and dissemination of knowledge, while the internet and mobile devices have revolutionized global communication and commerce.
+
+Today, technology continues to evolve at an unprecedented rate, with emerging trends such as artificial intelligence, nanotechnology, and space exploration holding significant promise for future innovation and progress. As we look to the future, it is clear that technology will continue to play a vital role in shaping human society, driving economic growth, and improving lives around the world.
+
+The key technological innovations that have driven human progress include the printing press, steam engine, electricity, internet, and quantum computing. These breakthroughs have transformed industries, including healthcare, finance, education, and communication, enabling global connectivity but also raising concerns about privacy, security, and ethics.
+
+In conclusion, the history and evolution of technology is a rich and complex narrative that spans thousands of years, from ancient civilizations to the present day. Understanding this history is essential for appreciating the significant impact of technological advancements on human society and preparing for the exciting prospects of the digital era.
+INFO:root:Session ID: string, User Query:  tell me about history and evolution , Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The history and evolution of technology is a long and complex one that spans thousands of years. The earliest technological advancements date back to ancient civilizations where simple tools were used for survival. These early innovations, such as the wheel, allowed humans to adapt to their environments more effectively and paved the way for further breakthroughs in engineering, science, and computing.
+
+One notable innovation from this period is the invention of the printing press by Johannes Gutenberg in the 15th century. This revolutionized the way information was disseminated, making it possible to mass-produce books and other written materials. The subsequent development of the steam engine by James Watt in the 18th century further transformed industry and transportation.
+
+The 20th century saw the rise of electricity, which became a fundamental component of modern technology. The invention of the light bulb, telephone, and computer all owe their existence to the work of pioneers like Thomas Edison, Alexander Graham Bell, and Charles Babbage. The advent of the internet in the late 20th century has enabled global connectivity, transformed the way we communicate and access information, and has had a profound impact on modern society.
+
+Today, technology continues to advance at an unprecedented rate. Breakthroughs in artificial intelligence (AI), nanotechnology, and space exploration are just a few examples of the many exciting developments on the horizon. As these trends emerge, it is essential for businesses and individuals to understand their implications and prepare for the digital era ahead.
+
+The impact of technology on society has been profound, transforming industries such as healthcare, finance, education, and communication. While technology has enabled global connectivity, it has also raised concerns about privacy, security, and ethics. As we move forward, it is crucial that we address these challenges and work towards creating a more equitable and sustainable technological landscape.
+
+Overall, the history and evolution of technology are testaments to human ingenuity and innovation. From simple tools to complex digital systems, technology has played an increasingly significant role in shaping modern society. By understanding the past, present, and future of technology, we can better navigate its implications and work towards a brighter, more technologically advanced future.

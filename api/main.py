@@ -96,11 +96,9 @@ def list_documents(organization_id: str, workspace_id: str):
 
 @app.post("/delete-doc")
 def delete_document(request: DeleteFileRequest):
-    # Delete from Chroma
     chroma_delete_success = delete_doc_from_chroma(request.organization_id, request.workspace_id,request.file_id)
 
     if chroma_delete_success:
-        # If successfully deleted from Chroma, delete from our database
         db_delete_success = delete_document_record(request.file_id,  request.organization_id, request.workspace_id)
         if db_delete_success:
             return {"message": f"Successfully deleted document with file_id {request.file_id} from the system."}
@@ -154,7 +152,6 @@ def add_document(doc: FileRecord):
         raise HTTPException(status_code=500, detail=str(e))
 
 
-# --- FastAPI Endpoints ---
 @app.get("/organizations/")
 def fetch_organizations():
     """ API endpoint to get all organizations """
