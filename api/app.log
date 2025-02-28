@@ -819,3 +819,100 @@ In addition, an insurance company's refusal policy may provide guidance on how t
 It is also worth noting that insurance companies often have different referral policies for certain types of claims, such as those related to medical expenses. In these cases, the insurer may refer the claimant to a specific medical professional or facility for treatment.
 
 Overall, an insurance company's refusal policy serves as a critical framework for determining whether to accept or reject a claim, and helps ensure that coverage is only provided to individuals who meet the necessary criteria.
+INFO:root:Session ID: None, User Query: What is the role of Santam Structured Life , Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_724 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_724/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1b6f5e32-fffb-4dc2-9276-54b8acec719c, AI Response: Santam Structured Life Limited, as stated in section 6.21, is a Registered Life Insurer. This means it is authorized and regulated by the Financial Sector Conduct Authority (FSCA) to provide life insurance services. Furthermore, as mentioned in section 6.23, Santam Structured Life Limited underwrites assurance policies that include funeral cover for policyholders and their nominated family members or partners, depending on the plan selected.
+
+In addition, Santam Structured Life Limited is a registered financial services provider (FSP) with FSP license number 1026, as mentioned in section A.15. This registration indicates that the company has met the necessary regulatory requirements to operate as an intermediary for insurance policies.
+
+Santam Structured Life Limited's physical address and postal address are provided in section D, and they can be contacted through various channels such as telephone numbers (0860 762 745 or 011 6857600) and a website at www.santam.co.za.
+INFO:root:Session ID: None, User Query: what is the role of Santam Structured Life, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 03df779c-97bc-4645-81a9-b9bd9efdd5f5, AI Response: Santam Structured Life Limited is a registered life insurer and an authorized financial services provider that underwrites insurance benefits, including personal accident cover. According to the information provided in the context, Santam Structured Life Limited is responsible for providing personalized experiences to customers through interactions with intermediaries and affiliated entities.
+
+The company's physical address is located at 7th Floor, Alice Lane Building 3, c/o Alice Lane & 5th Street, Sandton, 2196, while its postal address can be found at PO Box 652659, Benmore, 2010. Customers can also contact the company through their telephone number, 0860 762 745 or 011 6857600, or via fax at 011 7849858.
+
+Santam Structured Life Limited is registered with various regulatory bodies, including the Financial Services Provider (FSP) license number 1026 and the Company Registration Number 2002/013263/06. The company also holds a VAT number of 4100149816.
+
+In addition to providing insurance benefits, Santam Structured Life Limited is required by law to report suspicious and unusual transactions that may facilitate money laundering to the authorities in compliance with the Financial Intelligence Centre Act (FICA). This highlights the company's commitment to adhering to regulatory requirements and protecting the financial system from potential threats.
+INFO:root:Session ID: 1b6f5e32-fffb-4dc2-9276-54b8acec719c, User Query: What is the role of Santam Structured Life
+
+, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_727/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_727 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_727/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_727/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1b6f5e32-fffb-4dc2-9276-54b8acec719c, AI Response: Santam Structured Life is a division within the Santam Group that specializes in providing life insurance products with structured benefits. The primary focus of this division is to offer innovative, tailored solutions to clients seeking comprehensive coverage for various life events and circumstances.
+
+The structured life product range encompasses various types of policies, including term life, whole life, and unit-linked life insurance. These products are designed to provide a more flexible and adaptable approach to traditional life insurance solutions, allowing clients to customize their coverage to suit their specific needs.
+
+Key features of Santam Structured Life's products include:
+
+- A focus on structured benefits, which can be tailored to meet individual client requirements
+- Flexibility in policy terms, including the ability to adjust cover amounts and premium payments as needed
+- Integration with other financial products and services offered by the Santam Group
+- Comprehensive coverage options for various life events and circumstances
+
+The division's product offerings are designed to cater to a range of clients, from individuals looking for customized life insurance solutions to businesses seeking structured benefits for their employees. By providing flexible, adaptable coverage options, Santam Structured Life aims to enhance its clients' financial security and peace of mind.
+
+Overall, the role of Santam Structured Life is to provide innovative, tailored life insurance solutions that cater to individual client needs, while also promoting a comprehensive range of product offerings that support broader financial goals.
+INFO:root:Session ID: None, User Query: Tell me about the What is the role of Santam Structured Life ltd, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_727/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_727 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_727/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_727/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 8a2538ac-9ae8-4824-85d9-53553131a634, AI Response: Do not have enough information.
+INFO:root:Session ID: 8a2538ac-9ae8-4824-85d9-53553131a634, User Query: What is obligations and role of DuePoint, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_727/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_727 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_727/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_727/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 8a2538ac-9ae8-4824-85d9-53553131a634, AI Response: DuePoint, as referred to in this Mutual Confidentiality and Non-Disclosure Agreement (Agreement), acts as either the Company (Disclosing Party) or the Customer (Receiving Party) depending on the context.
+
+As a Disclosing Party, DuePoint's obligation is to protect its Confidential Information from unauthorized use or disclosure. The terms of this Agreement provide that Confidential Information includes any and all information or data of any nature, tangible or intangible, oral or in writing, and in any format or medium, which is reasonably identifiable as confidential and/or proprietary.
+
+DuePoint must also ensure that it does not disclose its own Confidential Information to the Receiving Party (Customer) without proper authorization. Conversely, as a Receiving Party, DuePoint's obligation is to keep all disclosed Confidential Information of the Disclosing Party (Company), including but not limited to property development proposals, plans, drawings, feasibility studies, intellectual property, products, research and development, market opportunities, customers, statistics, pricing, reports, systems, marketing, methods, promotional and advertising plans and strategies, financial plans and models, employees and office bearers, and business affairs.
+
+In the context of this Agreement, it appears that DuePoint is the Receiving Party. As such, DuePoint must exercise reasonable care to prevent unauthorized disclosure of Confidential Information received from the Company (DuePoint).
+INFO:root:Session ID: 8a2538ac-9ae8-4824-85d9-53553131a634, User Query: what does the waiver of right section says, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_727/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_9_workspace_727 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_727/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_9_workspace_727/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+INFO:root:Session ID: 8a2538ac-9ae8-4824-85d9-53553131a634, AI Response: The waiver of right section in this Mutual Confidentiality and Non-Disclosure Agreement (Agreement) is not explicitly stated, but it can be inferred that it may be contained within Section 7, which states: 
+
+"7information which is disclosed in circumstances of confidence or would be understood by the Parties, exercising reasonable business judgment, to be Confidential Information and"
+
+This suggests that the waiver of right section may be implied, but without explicit language, it is not possible to provide a detailed explanation of what this section specifically states.
+
+However, based on general principles of confidentiality agreements, it is likely that the waiver of right section would outline certain circumstances under which the confidential information can be shared or disclosed, such as when disclosure is required by law, in connection with a merger or acquisition, or in the event of bankruptcy.

@@ -42,7 +42,7 @@ qa_prompt = ChatPromptTemplate.from_messages([
 
 Instructions:
 1. If no context is provided, reply with: "Do not have enough information".
-2. First, verify if the provided context contains sufficient and relevant information to answer the user query.
+2. First, verify if the provided context contains sufficient and relevant information to answer the user query. if the context provided not match the user query simply reply "Do no have enough information". Do not make suppositions when there is no direct information.
 3. If the context is relevant and detailed enough, generate a very detailed answer covering all the points also citing context provided to you.
 4. Start your answer directly, do not include phrases like according to given context and etc.
 
