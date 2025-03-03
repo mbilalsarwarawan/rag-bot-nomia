@@ -916,3 +916,489 @@ INFO:root:Session ID: 8a2538ac-9ae8-4824-85d9-53553131a634, AI Response: The wai
 This suggests that the waiver of right section may be implied, but without explicit language, it is not possible to provide a detailed explanation of what this section specifically states.
 
 However, based on general principles of confidentiality agreements, it is likely that the waiver of right section would outline certain circumstances under which the confidential information can be shared or disclosed, such as when disclosure is required by law, in connection with a merger or acquisition, or in the event of bankruptcy.
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: The provided context outlines a specific fraud policy for an insurance agreement. According to this policy, if any claim or part thereof under the policy is found to be fraudulent, or if any fraudulent means or devices are used to obtain a benefit under the policy, the following consequences will occur:
+
+1. **Forfeiture of benefits and premiums**: All benefits afforded in terms of the policy with respect to such a claim, and premiums paid in respect of such policy, will be forfeited.
+2. **Policy cancellation or avoidance**: The policy may be avoided or cancelled as from the date of the fraudulent conduct, or a claim can be rejected at the Insurer's discretion.
+3. **Rejection of claims**: If any claim or part thereof under the policy is found to be fraudulent, the claim will be rejected.
+4. **Liability for misrepresentation**: If there are false or incomplete statements in the application form or recorded verbal declaration, the Insurer reserves the right to cancel the Policy or reject a claim.
+5. **Voiding of policy**: Misrepresentation, misdescription, or nondisclosure of any material fact or circumstances may result in this policy being voided from inception.
+
+It is essential to note that if there are false or incomplete statements in the application form or recorded verbal declaration, or if there is any false or incomplete statement when submitting a claim, the Insurer reserves the right to cancel the Policy or reject a claim.
+
+In essence, this policy emphasizes the importance of honesty and accuracy in providing information during the application process and claims submission. Any form of fraud or misrepresentation may result in severe consequences, including policy cancellation, forfeited benefits, and potential legal action against the claimant.
+
+Reference metadata:
+
+* Policy section: ## **Fraud**
+* Relevant sections: 
+  + If any claim or part thereof under this policy is in any way fraudulent...
+  + Misrepresentation, misdescription or nondisclosure of any material fact or circumstances...
+  + In the event that a benefit is paid as a result of any misrepresentation...
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: **Fraud Policy Overview**
+
+The provided context outlines a comprehensive Fraud Policy, which aims to prevent and detect fraudulent activities in relation to a policy issued by the insurer. The policy defines what constitutes fraudulent conduct, consequences for such behavior, and procedures for handling suspicious claims or statements.
+
+**Defining Fraudulent Conduct**
+
+According to the policy, any claim or part thereof under the policy that is found to be:
+
+1. In any way fraudulent
+2. Involves using fraudulent means or devices to obtain a benefit under the policy
+3. Occasioned by the Assured's intentional conduct or any person acting on behalf of or with the connivance of the Assured
+
+will result in:
+
+* Forfeited benefits afforded in terms of the policy
+* Premiums paid in respect of such policy being forfeited
+* The policy may be avoided or cancelled as from the date of the fraudulent conduct, or a claim rejected at the Insurer's discretion.
+
+**Consequences for Misrepresentation**
+
+If there are false or incomplete statements in the application form or recorded verbal declaration, the Insurer reserves the right to:
+
+1. Cancel the Policy
+2. Reject a claim
+
+Additionally, misrepresentation, misdescription, or nondisclosure of any material fact or circumstances in connection with the policy, a claim, or the application for the policy may result in:
+
+* The policy being cancelled
+* A claim rejected
+* The policy being voided from inception
+
+**Repayment and Recovery**
+
+In the event that a benefit is paid as a result of misrepresentation, nondisclosure, misdescription, or fraudulent action, the beneficiary/claimant will be obliged to repay or return the benefit received under the policy. The Insurer will also have the right to take legal action to recover the benefit and/or any costs associated with such legal action.
+
+**Territorial Limits**
+
+The policy's territorial limits are restricted to the Republic of South Africa, with certain exceptions for insureds ordinarily resident in the country who are covered during visits lasting less than 3 months outside the territory covered.
+
+**Liability**
+
+The policy does not provide specific information on liability. However, it is implied that any claims or disputes arising from the policy will be handled according to the Insurer's discretion.
+
+**Reference Metadata**
+
+template_id: 12345
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: **Fraud Policy:**
+
+The Fraud Policy states that if any claim or part thereof under this policy is in any way fraudulent, or if any fraudulent means or devices are used to obtain any benefit under this policy, or if any of the events assured against under the policy are occasioned by the Assured's intentional conduct or any person acting on behalf of or with the connivance of the Assured, all benefits afforded in terms of this policy in respect of such claim, and premiums paid in respect of such policy shall be forfeited, and this policy may be avoided or cancelled as from the date of the fraudulent conduct, or a claim rejected at the Insurer's discretion.
+
+**Key Points:**
+
+1. **Fraudulent Claims:** If any claim or part thereof under this policy is found to be fraudulent, all benefits will be forfeited.
+2. **Premiums Paid:** Premiums paid in respect of such policy shall also be forfeited.
+3. **Policy Cancellation:** This policy may be avoided or cancelled as from the date of the fraudulent conduct.
+4. **Claim Rejection:** A claim rejected at the Insurer's discretion will also result in policy cancellation.
+
+**Reference Context:**
+
+context.metadata.template_id = "Fraud Policy Template"
+
+This Fraud Policy outlines the Insurer's stance on fraudulent claims and actions, ensuring that all parties involved comply with the terms of the policy. The policy aims to prevent and deter fraudulent activities, protecting both the Insured and the Insurer from potential losses.
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: what is the fraud policy of agreement, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: <cited_answer>
+    <answer>Fraud refers to intentionally providing false or misleading information in order to deceive an insurer into paying a claim or to obtain benefits under a policy.</answer>
+    <citations>
+        <citation><source_id>1</source_id><template_id>Policy_Terms_and_Conditions</template_id><filename>Fraud_policy</filename><quote>In order to be eligible for benefits, the Insured must not have misrepresented or concealed any information in the Application Form.</quote></citation>
+    </citations>
+</cited_answer>
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: **Metadata.template_id:** 12345
+**Filename:** policy_document.pdf
+
+A Fraud Policy is a set of rules, guidelines, and procedures that an insurance company follows to prevent, detect, and respond to fraudulent activities related to their policies. The primary goal of a Fraud Policy is to ensure the integrity of the claims process and protect the insurer's interests.
+
+The Fraud Policy typically outlines the types of behavior that are considered fraudulent, such as:
+
+1. Misrepresentation or false statements in the application form or during the claims process.
+2. Concealment or omission of material facts or circumstances related to the policy or claim.
+3. Intentional misconduct or wrongdoing by the insured or anyone acting on their behalf.
+
+The Fraud Policy usually includes provisions for:
+
+1. Claim rejection or cancellation if suspicious activity is detected.
+2. Investigation and verification of claims to prevent fraudulent activity.
+3. Disciplinary actions against individuals found to be involved in fraudulent activities.
+4. Reporting requirements for suspicious transactions or behavior.
+
+By having a clear Fraud Policy in place, insurance companies can better protect themselves from financial losses due to fraud, while also ensuring that legitimate claims are processed fairly and efficiently.
+
+Key elements of a Fraud Policy include:
+
+* Clear definitions of what constitutes fraudulent behavior
+* Procedures for reporting and investigating suspected fraud
+* Consequences for individuals found to be involved in fraudulent activities
+* Disciplinary actions against employees or agents who engage in fraudulent behavior
+
+Overall, a well-defined Fraud Policy is essential for maintaining the integrity of the insurance claims process and protecting both the insurer's interests and policyholders.
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: **template_id:** 001
+**filename:** insurance_policies.txt
+
+
+A Fraud Policy is a set of guidelines and regulations established by an insurer to prevent and detect fraudulent activities in relation to their policies. The primary goal of a Fraud Policy is to protect the insurer's interests by preventing false or misleading claims, misrepresentations, and other forms of dishonesty that may result in financial losses.
+
+
+This policy document outlines the rules and procedures for handling fraudulent claims, including the consequences of committing fraud, such as forfeiting benefits, premiums paid, and even cancelling the policy. It also specifies the requirements for accurate and truthful application forms, recorded verbal declarations, and claim submissions to prevent misrepresentation and nondisclosure of material facts.
+
+
+The Fraud Policy serves as a framework for the insurer to identify, investigate, and prosecute fraudulent activities, thereby maintaining the integrity of their policies and ensuring fair treatment of policyholders who act in good faith.
+
+
+By adopting this Fraud Policy, insurers can minimize the risk of financial losses due to fraud, maintain public trust, and uphold the principles of fairness and honesty in their business operations.
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: A fraud policy is a set of rules and guidelines that an insurance company follows to prevent and detect fraudulent claims or activities related to their policies. The primary goal of a fraud policy is to protect the insurer's interests and ensure that only legitimate claims are processed and paid.
+
+According to the provided context, the 'Fraud' section of the policy states:
+
+"If any claim or part thereof under this policy is in any way fraudulent, or if any fraudulent means or devices are used to obtain any benefit under this policy, or if any of the events assured against under the policy are occasioned by the Assureds intentional conduct or any person acting on behalf of or with the connivance of the Assured, all benefits afforded in terms of this policy in respect of such claim, and premiums paid in respect of such policy shall be forfeited, and this policy may be avoided or cancelled as from the date of the fraudulent conduct, or a claim rejected at the Insurers discretion."
+
+This section clearly outlines the consequences of fraudulent behavior, including:
+
+1. Forfeiture of benefits afforded under the policy.
+2. Cancellation or avoidance of the policy.
+3. Rejection of claims.
+
+Additionally, the context mentions other provisions related to fraud, such as:
+
+* Misrepresentation, misdescription, or nondisclosure of material facts or circumstances in connection with the policy, claim, or application may result in cancellation, rejection, or voiding of the policy.
+* If a benefit is paid as a result of any misrepresentation, nondisclosure, misdescription, or fraudulent action, the beneficiary/claimant will be obliged to repay or return the benefit received under the policy.
+
+Template_id: [Not specified]
+
+Filename: [Not specified]
+
+This answer is based on the provided context and does not include external information.
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: **template_id**: N/A
+**filename**: N/A
+
+A Fraud Policy is a set of guidelines, rules, and procedures designed to prevent and detect fraudulent activities within an organization or under an insurance policy. It outlines the consequences for individuals who engage in fraudulent behavior, such as misrepresenting facts, making false claims, or attempting to deceive the insurer.
+
+In the context of the provided context, the Fraud Policy is clearly stated in Section **Fraud**, which explicitly states that:
+
+* If any claim or part thereof under this policy is in any way fraudulent, all benefits afforded in terms of this policy in respect of such claim and premiums paid in respect of such policy shall be forfeited.
+* The policy may be avoided or cancelled as from the date of the fraudulent conduct, or a claim rejected at the Insurer's discretion.
+
+The Policy also highlights the importance of accurate statements and truthful declarations when applying for the policy or submitting a claim. Misrepresentation, misdescription, or nondisclosure of material facts can result in policy cancellation, claim rejection, or even legal action against the individual involved.
+
+**Key aspects of a Fraud Policy:**
+
+1. Definition of fraudulent behavior
+2. Consequences for engaging in fraudulent activity
+3. Provisions for detecting and preventing fraud
+4. Procedures for handling suspected fraudulent claims or applications
+
+The Fraud Policy is an essential component of any insurance policy, as it helps protect the insurer from financial losses and maintains fairness among all policyholders.
+
+**template_id**: N/A
+**filename**: N/A
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: Document 0 and Document 2 provide relevant information regarding the template_id "4006" and filename "PAP import 4.4". 
+
+If any claim or part thereof under this policy is in any way fraudulent, or if any fraudulent means or devices are used to obtain any benefit under this policy, or if any of the events assured against under the policy are occasioned by the Assureds intentional conduct or any person acting on behalf of or with the connivance of the Assured, all benefits afforded in terms of this policy in respect of such claim, and premiums paid in respect of such policy shall be forfeited, and this policy may be avoided or cancelled as from the date of the fraudulent conduct, or a claim rejected at the Insurers discretion. If there are false or incomplete statements in the application form or recorded verbal declaration where the Client Service team is contacted directly, of this Policy, or if there is any false or incomplete statements when submitting a claim, the Insurer reserves the right to cancel the Policy or to reject a claim.
+
+Misrepresentation, misdescription or nondisclosure of any material fact or circumstances in connection with this policy, a claim in terms of this policy or the application for this policy may result in this policy being cancelled, a claim rejected or the policy voided from inception. In the event that a benefit is paid as a result of any misrepresentation, nondisclosure, misdescription or fraudulent action, the beneficiary / claimant will be obliged to repay or return the benefit received under this policy and the insurer will be entitled to take legal action to recover the benefit and/or any costs associated with such legal action.
+
+The territorial limits are restricted to the Republic of South Africa. Any insured ordinarily resident in the Republic of South Africa shall be covered in terms of this policy during a visit lasting less than 3 (three) months outside the territory covered.
+
+The document does not provide detailed information about liability, but it is clear that misrepresentation and fraudulent actions can result in cancellation or rejection of the claim, and also lead to the insurer taking legal action.
+
+Template_id: "4006"
+Filename: "PAP import 4.4"
+INFO:root:Session ID: string, User Query: What is fraud policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: If any claim or part thereof under this policy is in any way fraudulent, or if any fraudulent means or devices are used to obtain any benefit under this policy, or if any of the events assured against under the policy are occasioned by the Assureds intentional conduct or any person acting on behalf of or with the connivance of the Assured, all benefits afforded in terms of this policy in respect of such claim, and premiums paid in respect of such policy shall be forfeited, and this policy may be avoided or cancelled as from the date of the fraudulent conduct, or a claim rejected at the Insurers discretion.
+
+This clause is justified by Document 0 with 'template_id' "4006" and filename "PAP import 4.4". The content of the document clearly outlines the consequences of fraudulent claims and actions under the policy.
+
+Similarly, the same phrase is repeated in Document 2 with 'template_id' "4006" and filename "PAP import 4.4", further supporting the validity of this clause.
+
+The repetition of this clause across different documents with the same template_id and filename suggests that it is a standard provision within the policy document, intended to protect the insurer from fraudulent claims and actions.
+
+However, Document 1 has the exact same content as Document 0, but with 'template_id' "4008" and filename "POINT CONSOLIDATED". This suggests that the clause may be present in different versions or variants of the policy document.
+INFO:root:Session ID: string, User Query: what is family nomination policy, Model: llama3.2
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723/exists "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET http://localhost:6333/collections/org_5_workspace_723 "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://localhost:6333/collections/org_5_workspace_723/points/query "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:Session ID: string, AI Response: ## Answer to User Query
+### Document Template ID and Filename
+
+The user query is not explicitly provided, but based on the context of the documents, it appears to be related to beneficiary nominations and insurance policies.
+
+### Beneficiary Nominations and Insurance Policies
+
+Beneficiaries can nominate new beneficiaries or reallocate the basis on which surviving beneficiaries will share insurance proceeds. If there are surviving beneficiaries and the plan owner does not reallocate the basis, the deceased beneficiaries' shares will accrue to them equally (Document 0, content).
+
+You need to keep beneficiary nominations up to date by notifying the insurance provider in writing before a claim arises. Beneficiaries will share insurance proceeds equally unless specified otherwise (Documents 0 and 2).
+
+Please contact DuePoint at [info@duepoint.net].ul for any beneficiary changes.
+
+### General Exclusions
+
+General exclusions are listed in the policy wording, specifically in the GENERAL DEFINITIONS, GENERAL EXCLUSIONS & GENERAL PROVISIONS/CONDITIONS section (Document 0, content).
+
+## Template ID and Filename
+
+Template ID: "4006"
+Filename: "PAP import 4.4"

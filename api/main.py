@@ -42,13 +42,14 @@ def chat(query_input: QueryInput):
             query=query_input.question,
             organization_id=query_input.organization_id,
             workspace_id=query_input.workspace_id,
-            model=query_input.model.value
+            model=query_input.model.value,
+            file_id=None
         )
 
-    answer = rag_chain.invoke({
+    answer = rag_chain({
         "input": query_input.question,
-    })['answer']
-
+    })
+    answer=answer["answer"]
     answer = remove_think_tags(answer)
 
     logging.info(f"Session ID: {session_id}, AI Response: {answer}")
