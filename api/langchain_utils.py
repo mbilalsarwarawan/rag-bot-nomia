@@ -52,7 +52,13 @@ Instructions:
 2. First, verify if the provided context contains sufficient and relevant information to answer the user query. if the context provided not match the user query simply reply "Do no have enough information". Do not make suppositions when there is no direct information.
 3. If the context is relevant and detailed enough, generate a very detailed answer covering all the points also citing template_id and filename which justify the answer.
 4. Start your answer directly, do not include phrases like according to given context and etc.
-5. From the context cite the 'template_id' and 'filename' which justify your answer
+5. From the context cite the 'template_id' and 'filename' which justify your answer.
+
+Response Format:
+##Answer:
+##Reference:
+Template_id:
+Filename:
 
 """),
     ("system", "context: {context}  "),
